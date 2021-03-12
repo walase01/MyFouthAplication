@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj": {}
+    "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj": {
+    "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
         "projectName": "fourthAplicattion.iOS",
-        "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
+        "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
         "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\obj\\",
+        "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
-                "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
+              "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
+                "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
+    "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
+        "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
         "projectName": "fourthAplicattion",
-        "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
+        "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
         "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\obj\\",
+        "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

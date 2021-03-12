@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDuRfKje2ngSJFwdV1AdfKb40HywOY5mmTDWF9dONrPNHRRu0eoXqieU6diwmTWbY2OwuPh5ASI5bXW84WAmDA==",
+  "dgSpecHash": "ZXg88Ww4Q1PBf1OQHXOG2e7tmSuYDipgoqXwZYRI56Dk5JNalZFJ3JQZREZYCHcjcoM1NeR5qS5+OuSdznaHHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
+  "projectFilePath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
       "projectName": "fourthAplicattion.Android",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
+      "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.Android\\obj\\",
+      "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
-              "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
+            "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
+              "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
             }
           }
         }

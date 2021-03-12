@@ -637,11 +637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
       "projectName": "fourthAplicattion",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
+      "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\obj\\",
+      "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

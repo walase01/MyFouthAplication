@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cadrtoUU828iFqLsZOkj/uy2S8geeDcprQceaBHwYf53Mda5oqTsZcv733ptPqjxYq47NTZg0/7ZAEotIpMABQ==",
+  "dgSpecHash": "3biV3JFdsz7aNcQK2jvgB6v1eX3S9TBefbnFKeunvkROuXM8RK2DSdhzXedFyFj6YFrhbC6j16nDEUypiBOfIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
+  "projectFilePath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joser\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\joser\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
