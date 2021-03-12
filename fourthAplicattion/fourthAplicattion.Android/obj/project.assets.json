@@ -1933,24 +1933,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joser\\.nuget\\packages\\": {},
+    "C:\\Users\\INFOTEP\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
+      "projectUniqueName": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
       "projectName": "fourthAplicattion.Android",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
-      "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.Android\\obj\\",
+      "projectPath": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.Android\\fourthAplicattion.Android.csproj",
+      "packagesPath": "C:\\Users\\INFOTEP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\INFOTEP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
-              "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
+            "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
+              "projectPath": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
             }
           }
         }

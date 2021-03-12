@@ -981,24 +981,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joser\\.nuget\\packages\\": {},
+    "C:\\Users\\INFOTEP\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
       "projectName": "fourthAplicattion.iOS",
-      "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
-      "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.iOS\\obj\\",
+      "projectPath": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\fourthAplicattion.iOS.csproj",
+      "packagesPath": "C:\\Users\\INFOTEP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\INFOTEP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
-              "projectPath": "C:\\Users\\joser\\source\\repos\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
+            "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj": {
+              "projectPath": "C:\\Users\\INFOTEP\\Desktop\\Estudiar\\MyFouthAplication\\fourthAplicattion\\fourthAplicattion\\fourthAplicattion.csproj"
             }
           }
         }

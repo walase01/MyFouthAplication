@@ -4,10 +4,10 @@
              x:Class="fourthAplicattion.Views.AddUserToContactPage">
     <ScrollView>
         
-        <Grid ColumnDefinitions="*" RowDefinitions="auto,auto,*,auto" BackgroundColor="AliceBlue">
-            <Editor Placeholder="Digite su nombre" Grid.Column="0" Grid.Row="0"/>
-             <Editor Placeholder="Digite el Numero telefonico" Grid.Column="0" Grid.Row="1"  />
-            <Button Text="Add" Grid.Column="0" Grid.Row="3" Style="{StaticResource ButtonStyle}"/>
+        <Grid ColumnDefinitions="*" RowDefinitions="auto,auto,*,auto" BackgroundColor="AliceBlue" Padding="10">
+            <Editor Placeholder="Digite su nombre" Grid.Column="0" Grid.Row="0" Text="{Binding AddNewNameCommand}"/>
+             <Editor Placeholder="Digite el Numero telefonico" Grid.Column="0" Grid.Row="1"  Text="{Binding AddNewCellCommand}"/>
+            <Button Text="Add" Grid.Column="0" Grid.Row="3" Style="{StaticResource ButtonStyle}" Command="{Binding AddContact}"/>
         </Grid>
     </ScrollView>
     
