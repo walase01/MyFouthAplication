@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewsControls="clr-namespace:fourthAplicattion.Controls"
+             x:Class="fourthAplicattion.Views.MainPage"
+             x:Name="HomePage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Order="Primary" Command="{Binding AddContact}"/>
+    </ContentPage.ToolbarItems>
+    
+    <ListView ItemsSource="{Binding Contacts}">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <ViewsControls:ItemView/>
+                    <ViewCell.ContextActions>
+                        <MenuItem Text="Delete" Command="{Binding Source={x:Reference HomePage},Path=BindingContext.DeleteCommand}" CommandParameter="{Binding .}"/>
+                        <MenuItem Text="More"  Command="{Binding Source={x:Reference HomePage},Path=BindingContext.MoreCommand}" CommandParameter="{Binding .}"/>
+                    </ViewCell.ContextActions>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\bin\Debug\netstandard2.0\fourthAplicattion.deps.json
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\bin\Debug\netstandard2.0\fourthAplicattion.dll
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\bin\Debug\netstandard2.0\ref\fourthAplicattion.dll
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\bin\Debug\netstandard2.0\fourthAplicattion.pdb
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\Controls\ItemView.xaml.g.cs
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\fourthAplicattion.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\fourthAplicattion.AssemblyInfo.cs
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\fourthAplicattion.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\fourthAplicattion.dll
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\ref\fourthAplicattion.dll
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\fourthAplicattion.pdb
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\fourthAplicattion.csprojAssemblyReference.cache
+C:\Users\joser\source\repos\fourthAplicattion\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\Views\AddUserToContactPage.xaml.g.cs

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="fourthAplicattion.Views.AddUserToContactPage">
+    <ScrollView>
+        
+        <Grid ColumnDefinitions="*" RowDefinitions="auto,auto,*,auto" BackgroundColor="AliceBlue">
+            <Editor Placeholder="Digite su nombre" Grid.Column="0" Grid.Row="0"/>
+             <Editor Placeholder="Digite el Numero telefonico" Grid.Column="0" Grid.Row="1"  />
+            <Button Text="Add" Grid.Column="0" Grid.Row="3" Style="{StaticResource ButtonStyle}"/>
+        </Grid>
+    </ScrollView>
+    
+</ContentPage>
