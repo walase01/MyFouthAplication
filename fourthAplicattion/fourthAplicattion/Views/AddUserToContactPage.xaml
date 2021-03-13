@@ -6,7 +6,7 @@
         
         <Grid ColumnDefinitions="*" RowDefinitions="auto,auto,*,auto" BackgroundColor="AliceBlue" Padding="10">
             <Entry Placeholder="Digite su nombre" Grid.Column="0" Grid.Row="0" Text="{Binding AddNewName}"/>
-            <Entry Placeholder="Digite el Numero telefonico" Grid.Column="0" Grid.Row="1"  Text="{Binding AddNewCell}"/>
+            <Entry Placeholder="Digite el Numero telefonico" Grid.Column="0" Grid.Row="1" Keyboard="Numeric" Text="{Binding AddNewCell}"/>
             <Button Text="Add" Grid.Column="0" Grid.Row="3" Style="{StaticResource ButtonStyle}" Command="{Binding AddContact}"/>
         </Grid>
     </ScrollView>
