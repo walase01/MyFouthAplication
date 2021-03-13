@@ -34,7 +34,6 @@ C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattio
 C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattion\fourthAplicattion\bin\Debug\netstandard2.0\fourthAplicattion.dll
 C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattion\fourthAplicattion\bin\Debug\netstandard2.0\ref\fourthAplicattion.dll
 C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattion\fourthAplicattion\bin\Debug\netstandard2.0\fourthAplicattion.pdb
-C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\fourthAplicattion.csprojAssemblyReference.cache
 C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\Controls\ItemView.xaml.g.cs
 C:\Users\joser\source\repos\fourthAplicattion\MyFouthAplication\fourthAplicattion\fourthAplicattion\obj\Debug\netstandard2.0\Views\AddUserToContactPage.xaml.g.cs

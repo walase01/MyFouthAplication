@@ -69,6 +69,7 @@ namespace fourthAplicattion.ViewModels
             }
             else
             {
+                Contacts.Remove(contact);
                 contact.Name = await App.Current.MainPage.DisplayPromptAsync("Editar el nombre","Digite el nombre","Ok","Cancel");
                 contact.Number = await App.Current.MainPage.DisplayPromptAsync("Editar el Telefono", "Digite el numero Telefonico", "Ok", "Cancel");
                 Contacts.Add(new Contact(contact.Name,contact.Number));
