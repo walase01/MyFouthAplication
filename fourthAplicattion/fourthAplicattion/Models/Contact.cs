@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Text;
 
 namespace fourthAplicattion.Models
@@ -14,5 +15,10 @@ namespace fourthAplicattion.Models
 
         public string Name { get; set; }
         public string Number { get; set; }
+
+        public static implicit operator Contact(ObservableCollection<Contact> v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

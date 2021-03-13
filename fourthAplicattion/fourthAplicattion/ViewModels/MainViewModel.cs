@@ -27,17 +27,23 @@ namespace fourthAplicattion.ViewModels
         public MainViewModel(IAlertServices alertServices)
         {
             Contacts = new ObservableCollection<Contact>();
+            ToContactPage = new AddUserToContactPage(Contacts);
+            
+            //Contacts.Add(new Contact(ToContactPage));
+
             AddContact = new Command(AddContactToList);
             DeleteCommand = new Command<Contact>(DeleteContact);
             MoreCommand = new Command<Contact>(OnMoreCommandClick);
-            AlertServices = alertServices;
-            ToContactPage = new AddUserToContactPage(Contacts);
 
+
+            AlertServices = alertServices;
+                   
         }
 
         public  async void AddContactToList()
         {
             await App.Current.MainPage.Navigation.PushAsync(new AddUserToContactPage(Contacts));
+      
         }
         public void DeleteContact(Contact contact)
         {

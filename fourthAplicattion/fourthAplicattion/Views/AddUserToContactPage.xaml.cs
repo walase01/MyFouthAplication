@@ -1,4 +1,5 @@
 ﻿using fourthAplicattion.Models;
+using fourthAplicattion.ViewModels;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,7 +12,7 @@ namespace fourthAplicattion.Views
         public AddUserToContactPage(ObservableCollection<Contact> contacts)
         {
             InitializeComponent();
-            this.BindingContext = new AddUserToContactPage(contacts);
+            this.BindingContext = new AddContactViewModel(contacts);
         }
     }
 }
