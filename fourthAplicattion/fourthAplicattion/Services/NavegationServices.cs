@@ -8,6 +8,10 @@ namespace fourthAplicattion.Services
 {
     public class NavegationServices : IAlertServices
     {
+        public Task DisplayAlert(string Message)
+        {
+            throw new NotImplementedException();
+        }
 
         public Task NavegationToAddContact()
         {

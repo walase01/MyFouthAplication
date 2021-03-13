@@ -8,5 +8,7 @@ namespace fourthAplicattion.Services
     public interface IAlertServices
     {
         Task NavegationToAddContact();
+
+        Task DisplayAlert(string Message);
     }
 }

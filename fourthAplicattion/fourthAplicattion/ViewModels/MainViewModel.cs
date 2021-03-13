@@ -28,8 +28,7 @@ namespace fourthAplicattion.ViewModels
         {
             Contacts = new ObservableCollection<Contact>();
             ToContactPage = new AddUserToContactPage(Contacts);
-            
-            //Contacts.Add(new Contact(ToContactPage));
+
 
             AddContact = new Command(AddContactToList);
             DeleteCommand = new Command<Contact>(DeleteContact);
@@ -55,7 +54,6 @@ namespace fourthAplicattion.ViewModels
         }
         public async void OnMoreCommandClick(Contact contact)
         {
-            //var categori = await AlertServices.AccionSheet($"Call +{contact.Number}");
             var category = await App.Current.MainPage.DisplayActionSheet("Select the option","Cancel",null,new string[] { $"Call +{contact.Number}","Edit"});
             if(category != "Edit")
             {
@@ -66,7 +64,7 @@ namespace fourthAplicattion.ViewModels
                 catch (ArgumentNullException anEx)
                 {
                     string mensaje = anEx.Message;
-                    await App.Current.MainPage.DisplayAlert("A ocurrido un error",mensaje,"Cancel");
+                    await AlertServices.DisplayAlert(mensaje);
                 }
             }
             else
